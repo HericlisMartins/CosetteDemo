@@ -1,0 +1,84 @@
+{   "data":[
+  {
+    "title": "Small Padlock GG Supreme Shoulder Bag",
+    "body_html": "<strong>Small Padlock GG Supreme Shoulder Bag</strong>",
+    "vendor": "Gucci",
+    "product_type": "Bag",
+    "tags": [
+      "Bag","Gucci"
+    ],
+    "images": [
+      {
+        "src": "https://cdn-images.farfetch-contents.com/12/97/30/56/12973056_21954998_1000.jpg"
+      }
+    ],
+
+    "variants": [
+      {
+        
+        "sku": "Padlock-GG",
+        "inventory_management": "shopify",
+        "inventory_policy": "continue",
+        "inventory_quantity": 10,
+        "compare_at_price": 1822,
+        "price": 2025
+      }
+    ]
+  },
+  {
+      "title": "Kate Box Bag in Grain de Poudre Embossed Metallic Leather",
+      "body_html": "<strong>Kate Box Bag in Grain de Poudre Embossed Metallic Leather</strong>",
+      "vendor": "Saint Laurent",
+      "product_type": "Bag",
+      "tags": [
+        "Saint Laurent","Bag"
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0168/4727/4084/products/YSLKATEBOXANTICGD_1A_2048x2048.jpg?v=1588572216"
+        }
+      ],
+
+      "variants": [
+        {
+          
+          "sku": "Kate-Box-Bag ",
+          "inventory_management": "shopify",
+          "inventory_policy": "continue",
+          "inventory_quantity": 10,
+          "compare_at_price": 3230,
+          "price": 3070
+        }
+      ]
+    },
+    {
+      "title": "Becky Small Chain Bag in Black Quilted Lambskin",
+      "body_html": "<strong>Becky Small Chain Bag in Black Quilted Lambskin</strong>",
+      "vendor": "Saint Laurent",
+      "product_type": "Bag",
+      "tags": [
+        "Saint Laurent","Bag"
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0168/4727/4084/products/YSLBECKYSMALQUILTBK_1A_2048x2048.jpg?v=1588463619"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0168/4727/4084/products/YSLBECKYSMALQUILTBK_3_2048x2048.jpg?v=1588463601"
+        }
+      ],
+
+      "variants": [
+        {
+          
+          "sku": "Kate-Box-Bag ",
+          "inventory_management": "shopify",
+          "inventory_policy": "continue",
+          "inventory_quantity": 2,
+          "compare_at_price": 3220,
+          "price": 3390
+        }
+      ]
+    }
+]
+}
